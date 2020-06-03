@@ -19,6 +19,7 @@ section{
 	font-weight: bold;
 	margin-bottom: 10px;
 }
+
 label{
 	font-weight: bold;
 }
@@ -59,17 +60,17 @@ label{
 }
 
 .bg-blue{
-	background-color: #2f43ba;
+	background-color: #3694ca;
 	color: #fff;
 }
 
-<<<<<<< HEAD
+
 
 .bg-micolor {background-color: red;
 color: #fff;}
-=======
+
 .bg-red{
 	background-color: firebrick;
 	color: #fff;
 }
->>>>>>> 9b74568d238f4454530d1c2e92bc9e421084e97d
+
