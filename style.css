@@ -63,6 +63,13 @@ label{
 	color: #fff;
 }
 
+<<<<<<< HEAD
 
 .bg-micolor {background-color: red;
 color: #fff;}
+=======
+.bg-red{
+	background-color: firebrick;
+	color: #fff;
+}
+>>>>>>> 9b74568d238f4454530d1c2e92bc9e421084e97d
