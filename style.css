@@ -1,61 +1,61 @@
-
-html, body{
+html,
+body {
 	margin: 0;
 	padding: 0;
 	font-family: 'Raleway', sans-serif;
 }
 
-
-section{
+section {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	align-items: center; 
+	align-items: center;
 	padding: 50px 0;
+	.bg-pink {
+		background-color: #ff91ad;
+		color: #fff;
+	}
 }
 
-.title{
+.title {
 	font-size: 24px;
 	font-weight: bold;
 	margin-bottom: 10px;
 }
-label{
+label {
 	font-weight: bold;
 }
 
-.desc{
+.desc {
 	font-size: 18px;
 }
 
-.avatar{
+.avatar {
 	width: 200px;
 	height: 200px;
 	border-radius: 50%;
-	margin-bottom: 20px; 
+	margin-bottom: 20px;
 	border: 2px solid #fff;
 }
 
-
-
-
 /** BACKGROUNDS **/
 
-.bg-yellow{
+.bg-yellow {
 	background-color: #fcc00e;
 	color: #fff;
 }
 
-.bg-pink{
+.bg-pink {
 	background-color: #ff91ad;
 	color: #fff;
 }
 
-.bg-green{
+.bg-green {
 	background-color: #3cab6b;
 	color: #fff;
 }
 
-.bg-blue{
+.bg-blue {
 	background-color: #2f43ba;
 	color: #fff;
 }
