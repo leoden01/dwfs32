@@ -63,3 +63,8 @@ label{
 	background-color: #2f43ba;
 	color: #fff;
 }
+
+.bg-red{
+	background-color: firebrick;
+	color: #fff;
+}
