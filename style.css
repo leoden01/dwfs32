@@ -11,10 +11,6 @@ section {
 	justify-content: center;
 	align-items: center;
 	padding: 50px 0;
-	.bg-pink {
-		background-color: #ff91ad;
-		color: #fff;
-	}
 }
 
 .title {
@@ -22,6 +18,7 @@ section {
 	font-weight: bold;
 	margin-bottom: 10px;
 }
+
 label {
 	font-weight: bold;
 }
@@ -36,6 +33,10 @@ label {
 	border-radius: 50%;
 	margin-bottom: 20px;
 	border: 2px solid #fff;
+}
+
+.border-r {
+	border: 15px solid #fcc00e;
 }
 
 /** BACKGROUNDS **/
@@ -56,6 +57,16 @@ label {
 }
 
 .bg-blue {
-	background-color: #2f43ba;
+	background-color: #3694ca;
+	color: #fff;
+}
+
+.bg-micolor {
+	background-color: red;
+	color: #fff;
+}
+
+.bg-red {
+	background-color: firebrick;
 	color: #fff;
 }
