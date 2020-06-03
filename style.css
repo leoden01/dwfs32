@@ -66,8 +66,10 @@ label{
 
 
 
-.bg-micolor {background-color: red;
-color: #fff;}
+.bg-micolor {
+	background-color: red;
+	color: #fff;
+}
 
 .bg-red{
 	background-color: firebrick;
